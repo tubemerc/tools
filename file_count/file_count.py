@@ -30,4 +30,4 @@ if __name__ == '__main__':
         ax1.grid(axis = "y", color = "black", ls = "--")
         fig.show()
     else:
-        print("[ERROR] could not find files.")
+        print("[ERROR] could not find any files.")

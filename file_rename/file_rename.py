@@ -47,4 +47,4 @@ if __name__ == '__main__':
         filelist = glob.glob(path)
         print("after:", filelist)
     else:
-        print("[ERROR] could not find files.")
+        print("[ERROR] could not find any files.")
